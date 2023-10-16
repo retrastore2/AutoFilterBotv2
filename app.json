@@ -29,7 +29,7 @@
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
-            "value": "False"
+            "value": ""
         }
     },
     "buildpacks": [
