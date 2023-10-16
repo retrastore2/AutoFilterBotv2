@@ -32,6 +32,7 @@
             "value": ""
         }
     },
+    "addons": [],
     "buildpacks": [
         {
             "url": "heroku/python"
